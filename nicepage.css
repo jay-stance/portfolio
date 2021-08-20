@@ -16,6 +16,10 @@
    font-family: 'Montseraat';
  }
 
+#logo_img{
+  transform: scale(5,2.5);
+}
+
 .fr-clearfix::after {
   clear: both;
   display: block;
